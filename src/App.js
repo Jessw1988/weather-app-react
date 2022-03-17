@@ -5,7 +5,7 @@ import Weather from "./Weather";
 export default function App() {
   return (
     <div className="App">
-      <div class="container">
+      <div className="container">
         <Weather defaultCity="Brisbane" />
         <footer>
           <a href="https://github.com/Jessw1988/weather-app-react">
