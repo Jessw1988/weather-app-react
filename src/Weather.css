@@ -5,18 +5,12 @@
   border-radius: 4px;
   color: rgb(135, 135, 135);
 }
+
 .Weather h1 {
   font-size: 24px;
   font-weight: 100;
   margin: 20px 0 0 0;
   line-height: 29px;
-}
-
-.Weather img {
-  height: 64px;
-  width: 64px;
-  margin-right: 10px;
-  display: inline-block;
 }
 
 .Weather ul {
