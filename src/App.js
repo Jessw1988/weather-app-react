@@ -9,7 +9,7 @@ export default function App() {
         <Weather defaultCity="New York" />
 
         <footer>
-          This project was coded by Jess Wolski and is
+          This project was completed by Jess Wolski and is
           <a
             href="https://github.com/Jessw1988/weather-app-react"
             target="_blank"
